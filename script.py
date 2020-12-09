@@ -8,7 +8,7 @@ from instapy import smart_run
 
 
 # get a session!
-session = InstaPy(username='vegan.fyi', password='hara@041999')
+session = InstaPy(username='', password='')
 
 photo_comments = ['looks amazing!',
                   'I love your profile!',
